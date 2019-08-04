@@ -1,2 +1,1 @@
-# bc-class-July2019
-updated
+This repository contains files for UPENN Boot Camp homework assignments.
